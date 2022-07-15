@@ -1,16 +1,13 @@
-### Hi there 👋
+# DEVTOOLIGAN
 
-<!--
-**devtooligan/devtooligan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 buidlr 🤖 makr 🔫 footgunsmith 
 
-Here are some ideas to get you started:
+🎨 [ascii artiste](https://github.com/devtooligan/awesome-ascii-art) 🐞 [bughunter](https://code4rena.com/) ☁ [cloudhunter](https://github.com/devtooligan/cloudhunter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧐 [blocksec researcher](https://github.com/Yacademy-block-2) 🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff language](https://github.com/devtooligan/awesome-huff) 💊 [Foundry](https://book.getfoundry.sh/) 💜 [Tenderly](https://github.com/Tenderly)
+
+![devtooligan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtooligan&theme=radical)
+
+
+![devtooligan's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtooligan&theme=radical))
+
