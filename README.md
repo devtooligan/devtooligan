@@ -6,7 +6,7 @@
 
 🧐 [blocksec researcher](https://github.com/Yacademy-block-2) 
 
-🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff language](https://github.com/devtooligan/awesome-huff)
+🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff](https://github.com/devtooligan/awesome-huff)
 
 💊 [Foundry](https://book.getfoundry.sh/) 💜 [Tenderly](https://github.com/Tenderly)
 
