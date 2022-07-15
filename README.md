@@ -1,4 +1,4 @@
-# DEVTOOLIGAN
+# [devtooligan](https://twitter.com/devtooligan) 🫡
 
 💻 buidlr 🤖 makr 🔫 footgunsmith 
 
