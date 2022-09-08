@@ -1,9 +1,8 @@
 # [devtooligan](https://twitter.com/devtooligan) 🫡
 
-💻 buidlr 🤖 makr 🔫 footgunsmith 
-
-🎨 [ascii artiste](https://github.com/devtooligan/awesome-ascii-art) 🐞 [bughunter](https://code4rena.com/) ☁ [cloudhunter](https://github.com/devtooligan/cloudhunter)
-
+💻 buidlr 🤖 makr
+🔫 footgunsmith 🎨 [ascii artiste](https://github.com/devtooligan/awesome-ascii-art)
+🐞 [bughunter](https://code4rena.com/) ☁ [cloudhunter](https://github.com/devtooligan/cloudhunter)
 🧐 [blocksec researcher](https://github.com/Yacademy-block-2) 
 
 🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff](https://github.com/devtooligan/awesome-huff)
