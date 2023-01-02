@@ -7,6 +7,4 @@
  ☁ [cloudhunter](https://github.com/devtooligan/cloudhunter)
 
 
-🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff](https://github.com/devtooligan/awesome-huff)
-
-💊 [Foundry](https://book.getfoundry.sh/) 💜 [Tenderly](https://github.com/Tenderly)
+🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff](https://github.com/devtooligan/awesome-huff) 💊 [Foundry](https://book.getfoundry.sh/) 💜 [Tenderly](https://github.com/Tenderly)
