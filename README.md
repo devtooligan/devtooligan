@@ -4,3 +4,5 @@
 
 
 🔹 [Solidity](https://github.com/ethereum/solidity) ♘ [Huff](https://github.com/devtooligan/awesome-huff) 💊 [Foundry](https://book.getfoundry.sh/)
+
+These days I read a lot more code than I write!
